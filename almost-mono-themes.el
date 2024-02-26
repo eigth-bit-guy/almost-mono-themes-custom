@@ -30,9 +30,10 @@
 ;;; Code:
 
 (defconst almost-mono-themes-colors
-  '((white . ((background . "#ffffff")
+  '((white . ((background . "#e4e4e4")
 			  (foreground . "#000000")
-			  (weak	      . "#888888")
+			  (weak	      . "#637f55")
+			  (search     . "#888888")
 			  (weaker	  . "#dddddd")
 			  (weakest    . "#efefef")
 			  (highlight  . "#fda50f")
