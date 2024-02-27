@@ -103,7 +103,7 @@
       (show-paren-match (:background ,background :foreground ,success :bold t))
       (show-paren-mismatch (:background ,background :foreground ,warning :bold t))
       (minibuffer-prompt (:weight bold :foreground ,foreground))
-      (isearch (:background ,weak :foreground ,foreground :bold t))
+      (isearch (:background ,search :foreground ,foreground :bold t))
       (lazy-highlight (:background ,weaker :foreground ,foreground))
       (link (:underline t))
 
