@@ -54,14 +54,14 @@
 
     (gray .  ((background . "#2b2b2b")
 			  (foreground . "#ffffff")
-			  (weak       . "#00ff00")
+			  (weak       . "#cc8c3c")
 			  (search     . "#aaaaaa")			  
 			  (weaker	  . "#666666")
 			  (weakest	  . "#222222")
 			  (highlight  . "#fda50f")
 			  (warning	  . "#ff0000")
 			  (success	  . "#00ff00")
-			  (string     . "#a7bca4")))
+			  (string     . "#73c936")))
 
     (cream . ((background . "#f0e5da")
 			  (foreground . "#000000")
